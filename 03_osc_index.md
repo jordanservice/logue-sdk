@@ -130,3 +130,6 @@ _Note: Additions, corrections, broken links? Let us know at logue-sdk@korg.co.jp
 | [C0mp4ct](https://payhip.com/b/zXEHp) | Frostmod Audio | 4 voice polyphonic synthesizer | nts-1 mkii | paid |
 | [Lirah-1](https://danielmajid.gumroad.com/l/lirah-1) | Daniel Majid | FM synth inspired by the Soma Lyra-8 | nts-1 mkii | donation |
 | [FM4OSC](https://payhip.com/b/0VJ82) | Frostmod Audio | 4 Operator FM Oscillator | microkorg2 | paid |
+| [Tide](https://reefsynth.gumroad.com/l/tide-oscillator?layout=profile) | ReefSynth.com | West-coast fold oscillator | pro, xd, nts-1 | paid |
+| [Coast](https://reefsynth.gumroad.com/l/coast-oscillator?layout=profile) | ReefSynth.com | Pulsar oscillator (saw, sine and square) | pro, xd, nts-1 | paid |
+| [Ocean](https://reefsynth.gumroad.com/l/ocean-oscillator?layout=profile) | ReefSynth.com | Smooth polyphonic oscillator | pro, xd, nts-1 | paid |
